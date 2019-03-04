@@ -1,0 +1,2 @@
+# KiteGame
+cocosjs ts test
