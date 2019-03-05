@@ -12,7 +12,7 @@ export default class GameScence extends cc.Component {
 	
 	
     async onLoad () {
-        let node = await KTUIMng.Mount("Tips/KTUI-MsgTip", this.node);
+        let node = await KTUIMng.Mount("Tips/KTUI-msgTip", this.node);
         node.show("game ...");
     }
 

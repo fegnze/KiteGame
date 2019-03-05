@@ -16,7 +16,6 @@ function coroutine(func) {
 
 @ccclass
 export default class Loading extends cc.Component {
-
     onLoad () {
         
     }
